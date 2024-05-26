@@ -22,6 +22,9 @@ There are various factors we are considering here to predict the value :
 
 -lower_income: Income level directly impacts purchasing power.
 
+
+https://colab.research.google.com/drive/12d_aJyCdoBNnFUd6ddH9NfAyRBb3aUsv?usp=sharing
+
 -higher_income: Provides additional granularity on income, affecting purchasing power.
 
 
